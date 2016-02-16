@@ -7,3 +7,7 @@ This, like many other awesome repository collections, is dedicated to referencin
 * [pravin/Ukulele-Tuner](https://github.com/pravin/Ukulele-Tuner): Script for tuning Ukulele to GCEA (GUI Text Output!) [python], tuning
 * [einaregilsson/chord](https://github.com/einaregilsson/chord.js): Script for rendering images of a given guitar or ukulele chord [javascript], chords, images
 * [starenka/chordata](https://github.com/starenka/chordata): Scripts/utilities/web/cli for searching for chords, chord forms including inversions and even same shape patterns for the mandolin, guitar and ukulele [python], chords, search, same-shape search, inversions
+
+## Slack Key Tuning
+
+* Low G, C, E, High G [Slack Key Ukulele Lesson Video: Mark Nelson](https://www.youtube.com/watch?v=g9_M7GL9ZtE)
